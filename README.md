@@ -7,7 +7,7 @@
 ## Cara menjalankan web di lokal
 
 ```bash
-git clone https://github.com/shafiranaya/skincare-recommendation.git
+git clone https://github.com/aisyahfarrasaqila/skincare-recommendation.git
 virtualenv venv
 source venv/bin/activate
 pip install -r requirements.txt
